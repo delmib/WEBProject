@@ -1,0 +1,26 @@
+.list-group-item {
+    background-color: rgba(235, 255, 250, 0.54);
+    border-color: #e6efff;
+    color: rgba(0, 0, 0, 0.87);
+}
+.list-group-item.active {
+    background-color: rgba(174, 194, 189, 0.54);
+    border-color: #e6efff;
+    color: rgba(0, 0, 0, 0.87);
+}
+.entre-head-body{
+   padding: 30px 30px 30px 30px ;
+}
+
+color-row1,  .color-row2  {
+    max-width: 220px;
+}
+
+.color-square {
+    max-width: 220px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+
+
+}
